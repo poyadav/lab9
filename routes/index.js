@@ -8,7 +8,7 @@ exports.view = function(req, res){
   	var todaysLab = [{
 		"id": "lab-9",
 		"title": "Debugging 101",
-		"date": "March 7",
+		"date": "March 7, 2020",
 		"image": "debug.png"
 	}];
 
